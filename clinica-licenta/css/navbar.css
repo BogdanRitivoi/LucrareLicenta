@@ -1,0 +1,11 @@
+ <style type="text/css">
+ *{
+ 	margin: 0px;
+ 	padding: 0px;
+ }
+ .menu-bar{
+ 	background-image: linear-gradient(90deg, #0a66fa, #3884ff);
+ 	border-bottom: 2px solid #fff;
+ 	color: #fff;
+ }
+ </style>
